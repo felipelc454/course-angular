@@ -6,7 +6,7 @@ import { ConfigPrams } from '../shared/models/config-prams';
   providedIn: 'root'
 })
 export class ConfigParamsService {
-
+ 
   constructor() { }
 
   configurarParametros(config: ConfigPrams): HttpParams {
