@@ -1,6 +1,6 @@
-import { Injectable } from '@angular/core';
-import { HttpParams } from '@angular/common/http';
-import { ConfigPrams } from '../shared/models/config-prams';
+import { Injectable } from '@angular/core'
+import { HttpParams } from '@angular/common/http'
+import { ConfigPrams } from '../shared/models/config-prams'
 
 @Injectable({
   providedIn: 'root'
